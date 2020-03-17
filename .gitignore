@@ -1,0 +1,6 @@
+bazel-bin
+bazel-bin
+bazel-zulus
+bazel-out
+bazel-testlogs
+.DS_Store
